@@ -19,7 +19,7 @@ class Main {
                 out.println("Результат: " + result);
             } catch (Exception e) {
                 out.println("Ошибка: " + e.getMessage());
-                // System.exit(1);
+                 System.exit(1);
             }
         }
 
